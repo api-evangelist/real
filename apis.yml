@@ -21,6 +21,8 @@ accessModel:
   source: []
   generated: '2026-07-22'
   method: derived
+  source:
+  - {url: 'https://www.joinreal.com/about/', status: 301, note: 'declared website redirects to https://onereal.com/about — a different registrable domain (joinreal.com -> onereal.com), possible rename or acquisition (probed 2026-09-03, roadmap#169)'}
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/real.png
 name: Real
 description: Real is a company surfaced as a portfolio company of insight-partners, lightspeed-venture-partners
